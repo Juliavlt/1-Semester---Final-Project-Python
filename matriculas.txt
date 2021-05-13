@@ -1,0 +1,3 @@
+23 	 2 	 01/01/2018 	 terceiro 	 adm,mat,bio,acd
+12 	 1 	 01/06/2018 	 segundo 	 ap1,sop,mat,si
+12 	 3 	 01/01/2020 	 primeiro 	 port,adm

@@ -1,0 +1,3 @@
+12 	 julia 	 rua-anotinio-de-almeida-leite 	 10/05/2001 	 feminino	 julia@hotmail.com,valente@hotamil.com 	 996162005
+23 	 pedro-lucas 	 rua-dos-pinhais 	 10/04/2001 	 masculino	 pedrolucas@hotamil.com 	 998765438,998760034
+34 	 lorenzo 	 rua-das-laranjeiras 	 12/09/1999 	 masculino	 lorenzo@hotmail.com 	 9987654321,9900887766

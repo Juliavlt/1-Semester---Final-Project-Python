@@ -1,0 +1,3 @@
+1 	 analise-de-sistemas 	 sao-carlos 	 40 	 noturno
+2 	 engenharia-agronomica 	 barretos 	 35 	 matutino
+3 	 letras 	 sao-carlos 	 30 	 noturno
